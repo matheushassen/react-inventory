@@ -1,0 +1,20 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.form {
+    background-color: darkgray;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.form label {
+    font-weight: bolder;
+}
+
+.form input{
+    margin: 0 15px;
+}
